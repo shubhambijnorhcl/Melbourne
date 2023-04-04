@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="230.755">
+  <properties />
+  
+  
+            <testcase name="verifynewspageTest" time="52.404" classname="com.ca.NewsPageTestcases.NewsPageTest" />
+                <testcase name="verifyfbtf" time="66.023" classname="com.ca.NewsPageTestcases.NewsPageTest" />
+                <testcase name="verifynews" time="10.606" classname="com.ca.NewsPageTestcases.NewsPageTest" />
+                <testcase name="verifyfbt" time="60.929" classname="com.ca.NewsPageTestcases.NewsPageTest" />
+                <testcase name="verifyfBS" time="40.793" classname="com.ca.NewsPageTestcases.NewsPageTest" />
+      
+</testsuite>

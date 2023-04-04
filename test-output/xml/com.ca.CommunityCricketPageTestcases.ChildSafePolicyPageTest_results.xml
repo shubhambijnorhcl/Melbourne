@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommunityCricketPage"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="93.703">
+  <properties />
+  
+  
+            <testcase name="VerifyChildSafePolicyPageTest" time="11.660" classname="com.ca.CommunityCricketPageTestcases.ChildSafePolicyPageTest" />
+                <testcase name="VerifyChildSafePolicyStatement1PageTest" time="24.198" classname="com.ca.CommunityCricketPageTestcases.ChildSafePolicyPageTest" />
+                <testcase name="VerifyChildSafePolicyStatement2PageTest" time="24.681" classname="com.ca.CommunityCricketPageTestcases.ChildSafePolicyPageTest" />
+                <testcase name="VerifyChildSafePolicylinkPageTest" time="33.164" classname="com.ca.CommunityCricketPageTestcases.ChildSafePolicyPageTest" />
+      
+</testsuite>

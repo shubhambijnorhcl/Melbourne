@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlayerPathwayPage"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="72.276">
+  <properties />
+  
+  
+            <testcase name="VerifySubMalepathway" time="19.041" classname="com.ca.PlayerPageTestcases.PlayersPathwayPageTest" />
+                <testcase name="VerifyPlayersPageTest" time="12.346" classname="com.ca.PlayerPageTestcases.PlayersPathwayPageTest" />
+                <testcase name="VerifySubFemalepathway" time="19.242" classname="com.ca.PlayerPageTestcases.PlayersPathwayPageTest" />
+                <testcase name="VerifySubPathwaysWebsite" time="21.647" classname="com.ca.PlayerPageTestcases.PlayersPathwayPageTest" />
+      
+</testsuite>

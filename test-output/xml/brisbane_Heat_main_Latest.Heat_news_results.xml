@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="58.195">
+  <properties />
+  
+  
+            <testcase name="VerifyNews" time="7.142" classname="brisbane_Heat_main_Latest.Heat_news" />
+                <testcase name="VerifyHomemiddleLinkTest" time="51.053" classname="brisbane_Heat_main_Latest.Heat_news" />
+      
+</testsuite>

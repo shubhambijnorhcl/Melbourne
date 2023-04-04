@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommunityCricketPage"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="82.012">
+  <properties />
+  
+  
+            <testcase name="VerifyClubsAndAssociationSupportPageTest" time="16.003" classname="com.ca.CommunityCricketPageTestcases.ClubsAndAssociationSupportPageTest" />
+                <testcase name="VerifyGoodsportsprograminfoPageTest" time="32.146" classname="com.ca.CommunityCricketPageTestcases.ClubsAndAssociationSupportPageTest" />
+                <testcase name="VerifyGeneralclubandassociationsupportPageTest" time="33.863" classname="com.ca.CommunityCricketPageTestcases.ClubsAndAssociationSupportPageTest" />
+      
+</testsuite>

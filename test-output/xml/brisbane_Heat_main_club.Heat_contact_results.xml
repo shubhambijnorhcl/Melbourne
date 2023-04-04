@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.319">
+  <properties />
+  
+  
+            <testcase name="Verifycontact" time="8.319" classname="brisbane_Heat_main_club.Heat_contact" />
+      
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommunityCricketPage"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="157.119">
+  <properties />
+  
+  
+            <testcase name="Verifyguidelineslink1PageTest" time="17.413" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifycovid19GuidelinesAndResourceslinkPage" time="21.029" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifyguidelineslink6PageTest" time="11.492" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifyguidelineslink3PageTest" time="11.009" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifyguidelineslink5PageTest" time="25.217" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifyguidelineslink4PageTest" time="12.274" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="Verifyguidelineslink2PageTest" time="13.854" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="VerifyregisterlinkPageTest" time="20.514" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+                <testcase name="VerifycoronaviruslinkPageTest" time="24.317" classname="com.ca.CommunityCricketPageTestcases.Covid19GuidelinesAndResourcesPageTest" />
+      
+</testsuite>

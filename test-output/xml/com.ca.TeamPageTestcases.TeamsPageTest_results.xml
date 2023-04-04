@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TeamsPage"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="123.667">
+  <properties />
+  
+  
+            <testcase name="Verifysubhobarthurricanes_menPageTest" time="31.119" classname="com.ca.TeamPageTestcases.TeamsPageTest" />
+                <testcase name="VerifysubtasmaniantigerswomenPageTest" time="23.858" classname="com.ca.TeamPageTestcases.TeamsPageTest" />
+                <testcase name="VerifysubtasmaniantigersmenPageTest" time="25.198" classname="com.ca.TeamPageTestcases.TeamsPageTest" />
+                <testcase name="Verifysubhobarthurricanes_womenPageTest" time="27.199" classname="com.ca.TeamPageTestcases.TeamsPageTest" />
+                <testcase name="VerifyTeamsPageTest" time="16.293" classname="com.ca.TeamPageTestcases.TeamsPageTest" />
+      
+</testsuite>

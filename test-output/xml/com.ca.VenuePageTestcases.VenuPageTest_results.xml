@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VenuePage"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="53.956">
+  <properties />
+  
+  
+            <testcase name="VerifyVenueHomepageTest" time="27.377" classname="com.ca.VenuePageTestcases.VenuPageTest" />
+                <testcase name="VerifyVenuemuseumpageTest" time="26.579" classname="com.ca.VenuePageTestcases.VenuPageTest" />
+      
+</testsuite>

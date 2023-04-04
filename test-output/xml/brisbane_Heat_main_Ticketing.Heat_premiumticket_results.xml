@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.516">
+  <properties />
+  
+  
+            <testcase name="Verifypremiumtickets1" time="12.246" classname="brisbane_Heat_main_Ticketing.Heat_premiumticket" />
+                <testcase name="Verifypremiumtickets2" time="3.270" classname="brisbane_Heat_main_Ticketing.Heat_premiumticket" />
+      
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.782">
+  <properties />
+  
+  
+            <testcase name="Verifycleague" time="8.782" classname="com.CA.Community.Testcases.CLeagueTest" />
+      
+</testsuite>

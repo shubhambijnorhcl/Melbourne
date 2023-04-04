@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommunityCricketPage"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="210.124">
+  <properties />
+  
+  
+            <testcase name="VerifyEducationAndTraininglinkPageTest" time="17.689" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifyonlinecourseslinkPageTest" time="31.399" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifycoachtraininglinkPageTest" time="25.803" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifyumpiringlinkPageTest" time="24.261" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifyCAjuniorcricketapplinkPageTest" time="21.812" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifywebniarserieslinkPageTest" time="29.649" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifychildSafetylinkPageTest" time="30.068" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+                <testcase name="VerifyCAcoachapplinkPageTest" time="29.443" classname="com.ca.CommunityCricketPageTestcases.EducationAndTrainingPageTest" />
+      
+</testsuite>

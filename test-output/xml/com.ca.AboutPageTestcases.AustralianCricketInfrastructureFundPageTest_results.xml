@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AboutPage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="69.247">
+  <properties />
+  
+  
+            <testcase name="VerifyAustralianCricketInfrastructureFundPageTestt" time="69.247" classname="com.ca.AboutPageTestcases.AustralianCricketInfrastructureFundPageTest" />
+      
+</testsuite>
